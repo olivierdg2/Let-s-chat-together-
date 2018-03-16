@@ -101,11 +101,7 @@ class ClientServer(threading.Thread):
     def _help(self, client):
 
         client.send('/clients ====> Donne la liste des clients\n /quitter ====> Ferme la connexion avec le serveur'.encode())
-
-
-
-
-_name_ = "_main_"
+        
 
 if _name_ == '_main_':
 
