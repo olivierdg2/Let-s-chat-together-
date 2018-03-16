@@ -1,4 +1,5 @@
 "# Let-s-chat-together-" 
+
 Pour lancer l'app PeertoPeer, ouvrez le fichier "PeertoPeer.py" avec la console Python (3.6 de préférence).
 Une fois lancée, vous verrez affichés le nom de domaine ainsi que le port utilisé, à savoir 5000.
 Une fois cela réalisé, vous pouvez rejoindre un correspondant grâce à la commande /join suivie de l'adresse IP et le port de votre correspondant.
