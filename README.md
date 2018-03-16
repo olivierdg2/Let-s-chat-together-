@@ -7,4 +7,4 @@ Vous pouvez également tapper la commande /client pour consulter les information
 Une fois que vous souhaitez quitter la conversation, il vous suffit de tapper la commande /quit.
 Pour quitter l'application, il vous suffit de tapper la commande /exit.
 
-Pour lancer l'app ClientServeur
+Pour lancer l'app ClientServeur, ouvrez le fichier "ClientServeur.py" avec la console Python (3.6 de préférence).
